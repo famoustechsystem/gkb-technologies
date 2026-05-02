@@ -1,0 +1,7 @@
+
+  /* Page lock (no background scroll) */
+  html.locked, body.locked {
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+  }
